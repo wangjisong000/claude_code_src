@@ -1,0 +1,3 @@
+# CLI Verification Examples
+
+Stub file for verify skill.
